@@ -59,7 +59,7 @@ ffffm,DE,25291,26,185.206.209.133,traffic.aixit.off.de.ffffm.net,9001,9030,0,0,1
 porthill,DE,25185,97,136.243.176.148,static.148.176.243.136.clients.your-server.de,443,80,0,0,1,1,0,1,1,1,1,Tor 0.3.4.8 on Linux,0,0,2016-02-03,HETZNER-AS- DE,24940,86700,None
 dreamatorium,NL,25015,1775,89.31.57.58,89.31.57.58,443,80,0,1,1,1,0,1,1,1,1,Tor 0.3.3.9 on Linux,0,0,2015-05-04,UNITHOST-AS- NL,201401,55500,None
 apx1,NL,24934,166,185.107.47.215,tor-exit.r1.dtr.is,9001,9030,0,1,1,0,0,1,1,1,1,Tor 0.3.5.1-alpha-dev on Linux,0,0,2014-11-04,NFORCE- NL,43350,36800,None
-Unnamed,DE,24854,1878,217.79.179.177,.,9001,9030,0,0,1,1,0,1,1,1,1,Tor 0.3.3.8 on Linux,0,0,2015-04-28,MYLOC-AS- DE,24961,50500,[2001:4ba0:fff9:131:6c4f::90d3]:9001
+Unnamed,DE,24854,1878,217.79.179.177,0,9001,9030,0,0,1,1,0,1,1,1,1,Tor 0.3.3.8 on Linux,0,0,2015-04-28,MYLOC-AS- DE,24961,50500,[2001:4ba0:fff9:131:6c4f::90d3]:9001
 niftyllipika,DE,24764,116,185.220.101.29,185.220.101.29,20029,10029,0,1,1,1,0,1,1,1,1,Tor 0.3.3.7 on Linux,0,0,2016-12-02,FERAL Feral Hosting- GB,200052,60200,None
 atlantis,DE,24729,4588,85.25.43.31,atlantic746.serverprofi24.com,443,80,0,0,1,1,0,1,1,1,1,Tor 0.3.2.10 on FreeBSD,0,0,2017-10-27,GD-EMEA-DC-SXB1- DE,8972,73900,None
 reactortornode,UA,24723,313,78.109.23.2,2-23-109-78.hosting.ua,443,80,0,1,1,1,0,1,1,1,1,Tor 0.3.3.9 on Linux,0,0,2016-12-18,HOSTING-AS http://hosting.ua- UA,41665,42800,None
@@ -313,7 +313,7 @@ xor,SC,10627,184,185.56.80.242,public.freeflux.org,20002,9031,0,1,1,0,0,1,1,1,1,
 hsjeufh24h6,DE,10624,345,93.186.200.213,tor-relay.torproject.org,9001,9030,0,0,1,1,0,1,1,1,1,Tor 0.3.4.8 on Linux,0,0,2014-02-07,MYLOC-AS- DE,24961,34800,None
 DigiGesTor3e3,CH,10613,65,94.230.208.148,tor3e3.digitale-gesellschaft.ch,443,80,0,1,1,1,0,1,1,1,1,Tor 0.3.4.8 on Linux,0,0,2017-10-28,NINE- CH,29691,32100,[2a02:418:6017::148]:443
 DigiGesTor3e1,CH,10586,65,94.230.208.147,tor3e1.digitale-gesellschaft.ch,443,80,0,1,1,1,0,1,1,1,1,Tor 0.3.4.8 on Linux,0,0,2017-02-02,NINE- CH,29691,35000,[2a02:418:6017::147]:443
-eddy,NL,10577,7128,109.201.133.100,.,443,80,0,1,1,1,0,1,1,1,1,Tor 0.2.5.16 on Linux,0,0,2015-12-10,NFORCE- NL,43350,15300,None
+eddy,NL,10577,7128,109.201.133.100,0,443,80,0,1,1,1,0,1,1,1,1,Tor 0.2.5.16 on Linux,0,0,2015-12-10,NFORCE- NL,43350,15300,None
 SECxFreeBSD64,NL,10543,258,195.169.125.226,anonymous.sec.nl,9001,9030,0,0,1,1,0,1,1,1,1,Tor 0.3.4.7-rc on FreeBSD,0,0,2014-04-13,SURFNET-NL SURFnet- The Netherlands- NL,1103,30600,None
 nodvrelay01,CA,10531,1239,192.99.140.196,ip196.ip-192-99-140.net,443,80,0,0,1,1,0,1,1,1,1,Tor 0.2.9.16 on Linux,0,0,2018-03-25,OVH- FR,16276,41500,[2607:5300:60:a572::2]:443
 srv1htztorhaus,DE,10500,2380,148.251.127.89,srv1.fsn1-dc12.htz.tor.haus,443,80,0,0,1,1,0,1,1,1,1,Tor 0.2.9.14 on Linux,0,0,2018-06-18,HETZNER-AS- DE,24940,30500,None
@@ -331,7 +331,7 @@ Hydra4,FR,10090,195,51.15.124.1,1-124-15-51.rev.cloud.scaleway.com,9001,9030,0,1
 powerlay,DE,10073,333,5.9.9.18,static.18.9.9.5.clients.your-server.de,9001,9030,0,0,1,1,0,1,1,1,1,Tor 0.3.4.8 on Linux,0,0,2018-09-06,HETZNER-AS- DE,24940,50200,None
 Seedelmann,CH,10028,171,81.6.37.253,mail.edelmann.pw,9001,9030,0,0,1,1,0,1,1,1,1,Tor 0.3.3.9 on Linux,0,0,2018-06-09,INIT7- CH,13030,35200,None
 asshai,DE,10011,672,195.201.26.209,asshai.tor-relay.pluemper.de,443,80,0,0,1,1,0,1,1,1,1,Tor 0.3.3.9 on Linux,0,0,2016-09-04,HETZNER-AS- DE,24940,29700,None
-yuicat1,NL,10011,731,185.107.83.71,.,443,80,0,0,1,1,0,1,1,1,1,Tor 0.3.2.10 on Linux,0,0,2017-12-29,NFORCE- NL,43350,41900,[2a00:1768:6001:16::71]:443
+yuicat1,NL,10011,731,185.107.83.71,0,443,80,0,0,1,1,0,1,1,1,1,Tor 0.3.2.10 on Linux,0,0,2017-12-29,NFORCE- NL,43350,41900,[2a00:1768:6001:16::71]:443
 AnosognosiaRedux,DE,9990,343,185.220.102.8,185.220.102.8,80,None,0,1,1,0,0,1,1,1,1,Tor 0.3.4.8 on Linux,0,0,2018-06-15,ZWIEBELFREUNDE- AT,60729,25600,[2a0b:f4c1::8]:80
 relaytfm,GB,9974,829,51.75.19.170,170.ip-51-75-19.eu,443,80,0,1,1,1,0,1,1,1,1,Tor 0.2.9.14 on Linux,0,0,2018-08-23,OVH- FR,16276,27400,None
 hviv117,NL,9955,862,192.42.116.17,this-is-a-tor-exit-node-hviv117.hviv.nl,443,80,0,1,1,1,0,1,1,1,1,Tor 0.3.3.9 on Linux,0,0,2018-04-27,IP-EEND-AS IP-EEND BV- NL,1101,41500,None
@@ -1659,7 +1659,7 @@ passdipacket,BG,2363,1050,185.82.218.174,vds-189536.hosted-by-itldc.com,9000,900
 pook0oow,FR,2363,691,195.154.162.172,ledu-giraud.fr,21,None,0,0,1,1,0,1,1,1,1,Tor 0.3.2.10 on OpenBSD,0,0,2014-07-24,AS12876- FR,12876,13700,None
 sotlar,NL,2363,80,185.63.253.130,mail.sicherheitscenter-deutschland.de,443,80,0,0,1,1,0,1,1,1,1,Tor 0.3.4.8 on Linux,0,0,2016-12-01,HOSTPALACE-IN HostPalace Web Solution Private Limited- IN,133229,6780,None
 NYCBUG0,US,2359,56,66.111.2.20,nycbug0.nycbug.org,9001,9030,0,0,1,0,0,1,1,1,1,Tor 0.3.5.2-alpha on FreeBSD,0,0,2014-10-07,NYINTERNET - NYI- US,11403,15200,[2610:1c0:0:5::20]:9001
-yesno,TR,2358,65,185.125.33.58,.,443,80,0,0,1,1,0,1,1,1,1,Tor 0.3.4.8 on Linux,0,0,2016-05-03,INETLTD- TR,197328,7090,None
+yesno,TR,2358,65,185.125.33.58,0,443,80,0,0,1,1,0,1,1,1,1,Tor 0.3.4.8 on Linux,0,0,2016-05-03,INETLTD- TR,197328,7090,None
 trashcan23,RO,2356,1354,185.100.85.175,nigr.mahronis.com,443,None,0,0,1,1,0,1,1,1,1,Tor 0.2.9.14 on Linux,0,0,2017-02-15,FLOKINET- SC,200651,6500,None
 KappaPrideGoldfish,FR,2355,3,54.36.222.37,ip37.ip-54-36-222.eu,443,9030,0,1,1,0,0,0,1,1,1,Tor 0.3.4.8 on Linux,0,0,2017-10-28,OVH- FR,16276,24400,None
 NewYorkInternet1,US,2346,4452,63.165.242.34,63.165.242.34.static.nyinternet.net,9001,9030,0,0,1,1,0,1,1,1,1,Tor 0.3.2.10 on OpenBSD,0,0,2018-03-01,NYINTERNET - NYI- US,11403,5150,None
@@ -3096,7 +3096,7 @@ idideditheconfig,SE,443,1030,85.227.228.11,c-0be4e355.06-120-73746f3.bbcust.tele
 jfred,US,443,510,50.116.56.48,terracrypt.net,9001,None,0,0,1,0,0,1,1,1,0,Tor 0.2.4.27 on Linux,0,0,2014-06-07,LINODE-AP Linode- LLC- US,63949,1890,None
 KK2,PL,443,841,185.200.120.26,185.200.120.26,9201,9230,0,1,1,0,0,1,1,1,1,Tor 0.3.1.7 on Linux,0,0,2017-11-30,UISCAS- PL,205869,1150,None
 Pagkaki,GR,442,531,83.212.96.120,snf-462691.vm.okeanos.grnet.gr,443,80,0,0,1,0,0,1,1,1,1,Tor 0.2.9.16 on Linux,0,0,2014-04-09,GR-NET http://www.grnet.gr- GR,5408,1600,None
-Unnamed,TR,442,2550,185.125.33.242,.,4351,26185,0,1,1,0,0,1,1,1,1,Tor 0.2.9.15 on Linux,0,0,2018-05-17,INETLTD- TR,197328,968,None
+Unnamed,TR,442,2550,185.125.33.242,0,4351,26185,0,1,1,0,0,1,1,1,1,Tor 0.2.9.15 on Linux,0,0,2018-05-17,INETLTD- TR,197328,968,None
 capitalismISviolenz,GB,441,264,82.37.65.35,cpc84729-aztw28-2-0-cust34.18-1.cable.virginm.net,443,9030,0,0,1,0,0,1,1,1,1,Tor 0.3.4.8 on Linux,0,0,2018-09-08,NTL- GB,5089,1260,None
 HumanDataCommons,US,441,199,96.126.96.90,humandatacommons.org,22,9030,0,0,1,1,0,1,1,1,1,Tor 0.3.4.8 on Linux,0,0,2015-01-04,LINODE-AP Linode- LLC- US,63949,2880,None
 SwissLove,CH,441,231,83.77.235.135,135.235.77.83.dynamic.wline.res.cust.swisscom.ch,9001,9030,0,0,1,0,0,1,1,1,1,Tor 0.2.9.15 on Linux,0,0,2018-08-29,SWISSCOM Swisscom (Switzerland) Ltd- CH,3303,2070,None
@@ -3771,7 +3771,7 @@ Quincy,DE,253,189,87.118.110.113,ns.km20112-05.keymachine.de,443,80,0,0,1,0,0,1,
 Unnamed,IS,253,4492,82.221.131.90,82.221.131.90,10787,5992,0,0,1,0,0,1,1,1,1,Tor 0.2.9.15 on Linux,0,0,2017-12-18,THORDC-AS- IS,50613,936,None
 Unnamed,GB,253,778,176.67.170.192,176.67.170.192,9001,9030,0,0,1,0,0,1,1,1,1,Tor 0.3.2.10 on Linux,0,0,2017-10-26,UK2NET-AS- GB,13213,2090,None
 calu,FR,252,5796,92.243.6.46,calu.olabini.se,443,80,0,0,1,0,0,1,1,1,1,Tor 0.2.9.14 on Linux,0,0,2018-01-10,GANDI-AS-2 Domain name registrar - http://www.gandi.net- FR,203476,922,None
-DobbyIsFree,TR,252,63,178.211.45.18,.,443,80,0,0,1,1,0,1,1,1,1,Tor 0.3.4.8 on Linux,0,0,2018-02-02,INETLTD- TR,197328,1800,None
+DobbyIsFree,TR,252,63,178.211.45.18,0,443,80,0,0,1,1,0,1,1,1,1,Tor 0.3.4.8 on Linux,0,0,2018-02-02,INETLTD- TR,197328,1800,None
 mnesys1,DE,252,92,193.30.123.113,tor1.mnesys.org,443,None,0,0,1,0,0,0,1,1,1,Tor 0.3.3.7 on Linux,0,0,2018-09-23,NETCUP-AS netcup GmbH- DE,197540,2620,None
 nyr89,NL,252,240,185.185.40.111,185.185.40.111,12093,None,0,0,1,0,0,1,1,1,0,Tor 0.3.2.11 on Linux,0,0,2017-09-06,AS40676 - Psychz Networks- US,40676,645,None
 rofltor16,CA,252,67,64.137.187.218,tor-relay16.rofl.cat,9001,9030,0,0,1,1,0,1,1,1,1,Tor 0.3.3.7 on Linux,0,0,2018-06-28,CANAD-86-31798 - DataCity- CA,31798,1880,[2607:8880::487:da]:9001
@@ -4085,7 +4085,7 @@ synfin,US,172,283,45.79.109.55,tor.synfin.net,9001,None,0,0,1,0,0,1,1,1,0,Tor 0.
 Aramis66,US,171,4,96.227.109.38,pool-96-227-109-38.phlapa.fios.verizon.net,8443,8080,0,0,1,0,0,1,1,1,1,Tor 0.3.3.9 on Linux,0,0,2017-05-09,UUNET - MCI Communications Services- Inc. d/b/a Verizon Business- US,701,743,None
 NAIMINA,CZ,171,1254,46.28.110.219,hluboka.naimina.cz,9001,9030,0,0,1,0,0,1,1,1,1,Tor 0.3.3.7 on Linux,0,0,2017-08-21,WEDOS- CZ,197019,687,None
 scattystorrelay,DE,171,507,87.79.95.151,static-87-79-95-151.netcologne.de,9001,9030,0,0,1,0,0,1,1,1,1,Tor 0.3.3.9 on Linux,0,0,2016-09-21,NETCOLOGNE- DE,8422,590,None
-Unnamed,TR,171,2556,185.125.33.82,.,27639,11571,0,0,1,0,0,1,1,1,1,Tor 0.2.9.15 on Linux,0,0,2018-04-29,INETLTD- TR,197328,681,None
+Unnamed,TR,171,2556,185.125.33.82,0,27639,11571,0,0,1,0,0,1,1,1,1,Tor 0.2.9.15 on Linux,0,0,2018-04-29,INETLTD- TR,197328,681,None
 Unnamed,DE,171,4474,144.76.165.136,static.136.165.76.144.clients.your-server.de,4429,6512,0,0,1,0,0,1,1,1,1,Tor 0.2.9.15 on Linux,0,0,2017-10-17,HETZNER-AS- DE,24940,1560,None
 hdbRas3,DE,170,14,79.229.124.112,p4FE57C70.dip0.t-ipconnect.de,9001,9030,0,0,1,0,0,0,1,1,1,Tor 0.2.5.16 on Linux,0,0,2016-10-03,DTAG Internet service provider operations- DE,3320,533,None
 montserrat,DE,170,1770,141.70.125.232,marcie.members.selfnet.de,9001,9030,0,0,1,0,0,1,1,1,1,Tor 0.2.9.15 on Linux,0,0,2017-11-13,BELWUE BelWue-Koordination- DE,553,543,None
@@ -4714,7 +4714,7 @@ UbuntuCore243,US,68,6,76.174.195.183,cpe-76-174-195-183.socal.res.rr.com,34601,N
 4K170Relay2,JP,67,70,163.44.173.3,163.44.173.3,21,None,0,0,1,0,0,0,1,1,1,Tor 0.3.2.10 on Linux,0,0,2018-09-17,INTERQ GMO Internet-Inc- JP,7506,627,[2400:8500:1302:814:163:44:173:3]:21
 cygnusRELAY,GR,67,2300,178.128.22.157,178.128.22.157,9001,None,0,0,1,0,0,1,1,1,0,Tor 0.3.2.10 on FreeBSD,0,0,2018-06-23,DIGITALOCEAN-ASN - DigitalOcean- LLC- US,14061,623,None
 huntdifpres,US,67,632,159.65.65.253,159.65.65.253,443,80,0,0,1,0,0,1,1,1,1,Tor 0.2.9.11 on Linux,0,0,2018-09-01,DIGITALOCEAN-ASN - DigitalOcean- LLC- US,14061,1590,None
-k21hermes,CH,67,1342,95.183.51.126,.,5831,9030,0,0,1,0,0,1,1,1,1,Tor 0.2.5.16 on Linux,0,0,2016-07-19,SOLARCOM- CH,197988,414,None
+k21hermes,CH,67,1342,95.183.51.126,0,5831,9030,0,0,1,0,0,1,1,1,1,Tor 0.2.5.16 on Linux,0,0,2016-07-19,SOLARCOM- CH,197988,414,None
 KAMIKAZE,JP,67,19060,153.149.98.251,153-149-98-251.compute.jp-w1.cloudn-service.com,9001,None,0,0,1,0,0,1,1,1,0,Tor 0.2.7.6 on Linux,0,0,2016-01-19,OCN NTT Communications Corporation- JP,4713,462,None
 Nixbox,CA,67,960,69.196.165.41,nixbits.org,9002,None,0,0,1,0,0,1,1,1,1,Tor 0.3.3.9 on Linux,0,0,2018-07-23,TEKSAVVY - TekSavvy Solutions- Inc.- CA,5645,271,None
 Perlman,DE,67,264,45.76.86.86,perlman.fnerk.org,443,80,0,0,1,0,0,1,1,1,1,Tor 0.3.4.8 on FreeBSD,0,0,2017-03-26,AS-CHOOPA - Choopa- LLC- US,20473,628,None
@@ -5273,7 +5273,7 @@ UbuntuCore242,US,22,8,70.162.225.58,ip70-162-225-58.ph.ph.cox.net,36945,None,0,0
 Unnamed,RU,22,21,188.235.161.188,dynamicip-188-235-161-188.pppoe.saratov.ertelecom.ru,9001,9030,0,0,0,0,0,1,1,1,1,Tor 0.3.3.9 on Linux,0,0,2018-01-16,SARATOV-AS- RU,50543,39,None
 WJClubJNB01,ZA,22,400,169.239.130.8,nat1-za01.vmpanel.net,12701,None,0,0,1,0,0,1,1,1,0,Tor 0.3.2.10 on Linux,0,0,2018-01-26,ZAPPIE-HOST-AS Zappie Host- GB,61138,192,None
 zizizi,US,22,109,174.107.187.191,cpe-174-107-187-191.sc.res.rr.com,9001,None,0,0,1,0,0,1,1,1,1,Tor 0.2.9.16 on Linux,0,0,2018-06-03,SCRR-11426 - Time Warner Cable Internet LLC- US,11426,95,None
-0001,BG,21,41,91.92.109.43,insight.firstnetwork.cf,443,80,0,1,0,0,0,1,1,1,1,Tor 0.3.3.9 on Linux,0,0,2018-01-12,NETERRA-AS- BG,34224,39,None
+1,BG,21,41,91.92.109.43,insight.firstnetwork.cf,443,80,0,1,0,0,0,1,1,1,1,Tor 0.3.3.9 on Linux,0,0,2018-01-12,NETERRA-AS- BG,34224,39,None
 BurninThruBridges,US,21,756,74.91.27.30,74.91.27.30,9001,None,0,0,1,0,0,1,1,1,1,Tor 0.3.2.11 on OpenBSD,0,0,2018-04-03,DATASHACK - DataShack- LC- US,33387,102,None
 default,FR,21,13,83.155.27.64,cht17-1-83-155-27-64.fbx.proxad.net,443,9030,0,0,0,0,0,0,1,1,1,Tor 0.2.4.23 on Windows 8,0,0,2017-03-08,PROXAD- FR,12322,16,None
 giesing,ES,21,2804,82.223.36.196,82.223.36.196,9001,9030,0,0,1,0,0,0,1,1,1,Tor 0.2.9.14 on Linux,0,0,2017-04-08,ONEANDONE-AS Brauerstrasse 48- DE,8560,246,None
@@ -5313,7 +5313,7 @@ minotor,US,19,89,71.185.231.218,pool-71-185-231-218.phlapa.fios.verizon.net,9001
 MPx51jjMKYwMYpEB,LU,19,599,92.223.105.164,mycorp.tech,9001,None,0,1,0,0,0,0,1,1,1,Tor 0.3.3.7 on Linux,0,0,2018-08-20,GCORE- AT,199524,31,None
 NekoTor,AT,19,19,77.116.215.167,77.116.215.167.wireless.dyn.drei.com,9001,9030,0,0,1,0,0,0,1,1,1,Tor 0.3.4.8 on Linux,0,0,2017-12-23,H3G-AUSTRIA-AS ==) TELE2 AUSTRIA (==- AT,25255,195,None
 NicksTorRelay,AU,19,355,202.142.139.73,202-142-139-73.cust.wide.net.au,990,989,0,0,1,0,0,1,1,1,1,Tor 0.3.3.9 on Linux,0,0,2018-09-08,WIDEBAND-AS-AU Aussie Broadband- AU,4764,105,None
-perfectlyHonest,US,19,73,198.98.50.212,.,9001,None,0,0,1,0,0,1,1,1,0,Tor 0.3.4.8 on Linux,0,0,2016-04-04,PONYNET - FranTech Solutions- US,53667,190,None
+perfectlyHonest,US,19,73,198.98.50.212,0,9001,None,0,0,1,0,0,1,1,1,0,Tor 0.3.4.8 on Linux,0,0,2016-04-04,PONYNET - FranTech Solutions- US,53667,190,None
 tiger,NL,19,24,84.104.170.34,5468AA22.cm-12-1c.dynamic.ziggo.nl,9001,9030,0,0,1,0,0,0,1,1,1,Tor 0.3.1.10 on Linux,0,0,2014-08-22,ZIGGO Ziggo B.V.- NL,9143,182,None
 tiototo,DE,19,1673,91.65.53.199,ip5b4135c7.dynamic.kabel-deutschland.de,500,8080,0,0,1,0,0,1,1,1,1,Tor 0.2.5.16 on Linux,0,0,2016-04-15,KABELDEUTSCHLAND-AS- DE,31334,85,None
 UbuntuCore242,IE,19,3,95.44.180.215,95-44-180-215-dynamic.agg1.dbt.blp-srl.eircom.net,33547,None,0,0,1,0,0,0,1,1,1,Tor 0.3.2.12 on Linux,0,0,2017-12-10,EIRCOM Internet House- IE,5466,299,None
@@ -5716,14 +5716,14 @@ agschaid,AT,0,207,194.96.127.131,194-96-127-131.adsl.highway.telekom.at,9001,Non
 AITUK,NL,0,2494,92.111.4.177,mail.libremail.nl,9090,9040,0,0,0,0,0,1,1,1,1,Tor 0.3.3.7 on Linux,0,0,2016-02-16,LGI-UPC formerly known as UPC Broadband Holding B.V.- AT,6830,30,None
 AliasName,DE,0,70,87.150.5.221,p579605DD.dip0.t-ipconnect.de,9001,None,0,0,0,0,0,0,1,1,0,Tor 0.3.2.10 on Linux,0,0,2016-03-20,DTAG Internet service provider operations- DE,3320,34,None
 alliumursinum,DE,0,1514,178.254.30.86,athena.sommrey.de,9001,None,0,0,0,0,0,1,1,1,0,Tor 0.2.9.14 on Linux,0,0,2014-07-08,EVANZOAS- DE,42730,33,None
-angeltest4,NL,0,12,213.183.60.21,ebri9521.cloud-living.com.60.183.213.in-addr.arpa,443,9030,0,0,0,0,0,0,1,1,1,Tor 0.3.4.8 on Linux,0,0,2018-09-27,MELBICOM-EU-AS Melbikomas UAB- NL,56630,None,None
-AnonSydney00,AU,0,3,139.99.194.156,156.ip-139-99-194.eu,443,80,0,0,0,0,0,0,1,1,1,Tor 0.3.4.8 on Linux,0,0,2018-09-26,OVH- FR,16276,None,None
+angeltest4,NL,0,12,213.183.60.21,ebri9521.cloud-living.com.60.183.213.in-addr.arpa,443,9030,0,0,0,0,0,0,1,1,1,Tor 0.3.4.8 on Linux,0,0,2018-09-27,MELBICOM-EU-AS Melbikomas UAB- NL,56630,1,None
+AnonSydney00,AU,0,3,139.99.194.156,156.ip-139-99-194.eu,443,80,0,0,0,0,0,0,1,1,1,Tor 0.3.4.8 on Linux,0,0,2018-09-26,OVH- FR,16276,1,None
 anonymous,DE,0,12,217.235.225.138,pD9EBE18A.dip0.t-ipconnect.de,9010,9030,0,0,1,0,0,0,1,1,1,Tor 0.3.3.9 on Linux,0,0,2018-08-17,DTAG Internet service provider operations- DE,3320,1000,None
 anonymous,MD,0,15,178.17.166.146,178-17-166-146.static.as43289.net,9001,8080,0,1,1,0,0,1,1,1,1,Tor 0.3.4.8 on Linux,0,0,2018-02-01,TRABIA trabia network- MD,43289,29600,None
 anonymous2,MD,0,15,178.17.166.147,178-17-166-147.static.as43289.net,9001,8080,0,1,1,0,0,1,1,1,1,Tor 0.3.4.8 on Linux,0,0,2018-06-12,TRABIA trabia network- MD,43289,34500,None
 anonymous3,MD,0,15,178.17.166.148,allyourbase.lxsys.co.cc,9001,8080,0,1,1,0,0,1,1,1,1,Tor 0.3.4.8 on Linux,0,0,2018-06-12,TRABIA trabia network- MD,43289,32200,None
 anonymous4,MD,0,15,178.17.166.149,178.17.166.149,9001,8080,0,1,1,0,0,1,1,1,1,Tor 0.3.4.8 on Linux,0,0,2018-06-12,TRABIA trabia network- MD,43289,38200,None
-anonymous5,MD,0,4,178.17.166.150,178-17-166-150.static.as43289.net,9001,8080,0,1,0,0,0,0,1,1,1,Tor 0.3.4.8 on Linux,0,0,2018-09-27,TRABIA trabia network- MD,43289,None,None
+anonymous5,MD,0,4,178.17.166.150,178-17-166-150.static.as43289.net,9001,8080,0,1,0,0,0,0,1,1,1,Tor 0.3.4.8 on Linux,0,0,2018-09-27,TRABIA trabia network- MD,43289,1,None
 ansible,US,0,1301,34.214.31.61,ec2-34-214-31-61.us-west-2.compute.amazonaws.com,443,None,0,0,0,0,0,1,1,1,0,Tor 0.2.9.15 on Linux,0,0,2017-09-15,AMAZON-02 - Amazon.com- Inc.- US,16509,38,None
 apx3,NL,0,12,185.107.70.202,tor-exit.r3.dtr.is,9001,9030,0,1,1,0,0,0,1,1,1,Tor 0.3.5.1-alpha-dev on Linux,0,0,2015-07-26,NFORCE- NL,43350,49300,None
 argleblargle,AU,0,332,121.44.47.99,121.44.47.99,9001,None,0,0,0,0,0,1,1,1,0,Tor 0.3.2.10 on Linux,0,0,2018-09-13,INTERNODE-AS Internode Pty Ltd- AU,4739,16,None
@@ -5781,22 +5781,22 @@ colinsullivandotme,US,0,151,174.138.59.100,colinsullivan.me-1510261394723-1gb-ny
 concentrator,DE,0,10,95.33.228.98,dyndsl-095-033-228-098.ewe-ip-backbone.de,9001,None,0,0,0,0,0,0,1,1,1,Tor 0.3.3.7 on Linux,0,0,2014-11-05,EWETEL Cloppenburger Strasse 310- DE,9145,31,None
 contribuiltion,HK,0,248,45.249.61.131,45.249.61.131,9001,9030,0,0,0,0,0,1,1,1,1,Tor 0.3.2.10 on Linux,0,0,2017-08-22,VTL-AS-AP Vanta Telecommunications Limited- HK,135544,2,None
 CoolGreggysNode,AU,0,598,180.181.241.194,194-241-181-180.cpe.skymesh.net.au,9001,None,0,0,0,0,0,1,1,1,1,Tor 0.3.3.7 on Darwin,0,0,2018-05-06,TEREDONN-AS-AP SkyMesh Pty Ltd- AU,7477,29,None
-CryptoHouse,DE,0,2,134.255.216.164,psy-bunker.de,443,80,0,1,0,0,0,0,1,1,1,Tor 0.3.4.8 on Linux,0,0,2018-09-27,None,None,None,None
+CryptoHouse,DE,0,2,134.255.216.164,psy-bunker.de,443,80,0,1,0,0,0,0,1,1,1,Tor 0.3.4.8 on Linux,0,0,2018-09-27,None,None,1,None
 Cybershadow,DE,0,114,85.214.240.223,h2212895.stratoserver.net,9001,9030,0,0,0,0,0,0,1,1,1,Tor 0.2.9.16 on Linux,0,0,2018-07-07,STRATO STRATO AG- DE,6724,34,None
-darknode5,GR,0,15,178.128.238.214,178.128.238.214,9001,9030,0,1,0,0,0,0,1,1,1,Tor 0.3.4.8 on Linux,0,0,2018-09-26,DIGITALOCEAN-ASN - DigitalOcean- LLC- US,14061,None,None
-darknode5,GR,0,15,178.128.225.99,178.128.225.99,9001,9030,0,1,0,0,0,0,1,1,1,Tor 0.3.4.8 on Linux,0,0,2018-09-26,DIGITALOCEAN-ASN - DigitalOcean- LLC- US,14061,None,None
-darknode5,GR,0,15,178.128.225.34,178.128.225.34,9001,9030,0,1,0,0,0,0,1,1,1,Tor 0.3.4.8 on Linux,0,0,2018-09-26,DIGITALOCEAN-ASN - DigitalOcean- LLC- US,14061,None,None
-darknode5,GR,0,15,178.128.238.243,178.128.238.243,9001,9030,0,1,0,0,0,0,1,1,1,Tor 0.3.4.8 on Linux,0,0,2018-09-26,DIGITALOCEAN-ASN - DigitalOcean- LLC- US,14061,None,None
-darknode5,GR,0,15,178.128.225.14,178.128.225.14,9001,9030,0,1,0,0,0,0,1,1,1,Tor 0.3.4.8 on Linux,0,0,2018-09-26,DIGITALOCEAN-ASN - DigitalOcean- LLC- US,14061,None,None
-darknode5,GR,0,15,178.128.238.215,178.128.238.215,9001,9030,0,1,0,0,0,0,1,1,1,Tor 0.3.4.8 on Linux,0,0,2018-09-26,DIGITALOCEAN-ASN - DigitalOcean- LLC- US,14061,None,None
-darknode5,GR,0,15,178.128.225.50,178.128.225.50,9001,9030,0,1,0,0,0,0,1,1,1,Tor 0.3.4.8 on Linux,0,0,2018-09-26,DIGITALOCEAN-ASN - DigitalOcean- LLC- US,14061,None,None
-darknode5,CA,0,15,165.227.32.206,165.227.32.206,9001,9030,0,1,0,0,0,0,1,1,1,Tor 0.3.4.8 on Linux,0,0,2018-09-26,DIGITALOCEAN-ASN - DigitalOcean- LLC- US,14061,None,None
-darknode5,GR,0,15,178.128.225.79,178.128.225.79,9001,9030,0,1,0,0,0,0,1,1,1,Tor 0.3.4.8 on Linux,0,0,2018-09-26,DIGITALOCEAN-ASN - DigitalOcean- LLC- US,14061,None,None
-darknode5,GR,0,15,178.128.225.111,178.128.225.111,9001,9030,0,1,0,0,0,0,1,1,1,Tor 0.3.4.8 on Linux,0,0,2018-09-26,DIGITALOCEAN-ASN - DigitalOcean- LLC- US,14061,None,None
+darknode5,GR,0,15,178.128.238.214,178.128.238.214,9001,9030,0,1,0,0,0,0,1,1,1,Tor 0.3.4.8 on Linux,0,0,2018-09-26,DIGITALOCEAN-ASN - DigitalOcean- LLC- US,14061,1,None
+darknode5,GR,0,15,178.128.225.99,178.128.225.99,9001,9030,0,1,0,0,0,0,1,1,1,Tor 0.3.4.8 on Linux,0,0,2018-09-26,DIGITALOCEAN-ASN - DigitalOcean- LLC- US,14061,1,None
+darknode5,GR,0,15,178.128.225.34,178.128.225.34,9001,9030,0,1,0,0,0,0,1,1,1,Tor 0.3.4.8 on Linux,0,0,2018-09-26,DIGITALOCEAN-ASN - DigitalOcean- LLC- US,14061,1,None
+darknode5,GR,0,15,178.128.238.243,178.128.238.243,9001,9030,0,1,0,0,0,0,1,1,1,Tor 0.3.4.8 on Linux,0,0,2018-09-26,DIGITALOCEAN-ASN - DigitalOcean- LLC- US,14061,1,None
+darknode5,GR,0,15,178.128.225.14,178.128.225.14,9001,9030,0,1,0,0,0,0,1,1,1,Tor 0.3.4.8 on Linux,0,0,2018-09-26,DIGITALOCEAN-ASN - DigitalOcean- LLC- US,14061,1,None
+darknode5,GR,0,15,178.128.238.215,178.128.238.215,9001,9030,0,1,0,0,0,0,1,1,1,Tor 0.3.4.8 on Linux,0,0,2018-09-26,DIGITALOCEAN-ASN - DigitalOcean- LLC- US,14061,1,None
+darknode5,GR,0,15,178.128.225.50,178.128.225.50,9001,9030,0,1,0,0,0,0,1,1,1,Tor 0.3.4.8 on Linux,0,0,2018-09-26,DIGITALOCEAN-ASN - DigitalOcean- LLC- US,14061,1,None
+darknode5,CA,0,15,165.227.32.206,165.227.32.206,9001,9030,0,1,0,0,0,0,1,1,1,Tor 0.3.4.8 on Linux,0,0,2018-09-26,DIGITALOCEAN-ASN - DigitalOcean- LLC- US,14061,1,None
+darknode5,GR,0,15,178.128.225.79,178.128.225.79,9001,9030,0,1,0,0,0,0,1,1,1,Tor 0.3.4.8 on Linux,0,0,2018-09-26,DIGITALOCEAN-ASN - DigitalOcean- LLC- US,14061,1,None
+darknode5,GR,0,15,178.128.225.111,178.128.225.111,9001,9030,0,1,0,0,0,0,1,1,1,Tor 0.3.4.8 on Linux,0,0,2018-09-26,DIGITALOCEAN-ASN - DigitalOcean- LLC- US,14061,1,None
 darkwebv1,US,0,441,73.176.222.34,c-73-176-222-34.hsd1.il.comcast.net,9001,9030,0,0,0,0,0,1,1,1,1,Tor 0.2.4.29 on Linux,0,0,2015-08-28,COMCAST-7922 - Comcast Cable Communications- LLC- US,7922,33,None
 darthsidious,DE,0,32,93.220.222.62,p5DDCDE3E.dip0.t-ipconnect.de,9001,None,0,0,0,0,0,1,1,1,0,Tor 0.3.2.10 on Linux,0,0,2015-12-10,DTAG Internet service provider operations- DE,3320,34,None
 daWiZaRd,DE,0,4,87.123.132.215,i577B84D7.versanet.de,9001,None,0,0,0,0,0,0,1,1,0,Tor 0.2.9.14 on Linux,0,0,2018-03-16,VERSATEL- DE,8881,35,None
-ddxor,DE,0,16,80.255.0.140,80.255.0.140.static.afterburst.com,9001,None,0,0,0,0,0,0,1,1,1,Tor 0.2.9.16 on Linux,0,0,2018-09-26,NETZBETRIEB-GMBH- DE,201011,None,None
+ddxor,DE,0,16,80.255.0.140,80.255.0.140.static.afterburst.com,9001,None,0,0,0,0,0,0,1,1,1,Tor 0.2.9.16 on Linux,0,0,2018-09-26,NETZBETRIEB-GMBH- DE,201011,1,None
 dE0F76Hrrzii0TozuGj,GB,0,2955,188.172.153.42,188.172.153.42.bcube.co.uk,53179,None,0,0,0,0,0,1,1,1,0,Tor 0.2.5.16 on Linux,0,0,2016-12-29,BCUBE-AS- GB,56478,39,None
 Debianer,DE,0,6356,95.143.172.214,puppis.uberspace.de,61058,64671,0,0,0,0,0,1,1,1,1,Tor 0.2.7.6 on Linux,0,0,2016-03-21,RHTEC-AS rh-tec IP Backbone- DE,25560,35,None
 deezrelays,US,0,2098,72.197.6.110,ip72-197-6-110.sd.sd.cox.net,9001,9030,0,0,0,0,0,1,1,1,1,Tor 0.2.5.16 on Linux,0,0,2016-09-16,ASN-CXA-ALL-CCI-22773-RDC - Cox Communications Inc.- US,22773,33,None
@@ -5820,7 +5820,7 @@ defiant,CZ,0,13,151.237.229.131,home.natalenko.name,9001,None,0,0,0,0,0,1,1,1,1,
 deHoochObscura,IE,0,195,52.50.118.8,ec2-52-50-118-8.eu-west-1.compute.amazonaws.com,9001,None,0,0,0,0,0,1,1,1,0,Tor 0.3.4.8 on Linux,0,0,2018-01-14,AMAZON-02 - Amazon.com- Inc.- US,16509,28,None
 demoncore,DE,0,1508,185.15.94.17,chlorine.darkpackets.net,9001,9030,0,0,0,0,0,1,1,1,1,Tor 0.3.2.11 on OpenBSD,0,0,2016-06-10,FISDE-AS- DE,34764,15,None
 demoProgTor,US,0,1688,45.79.137.11,li1236-11.members.linode.com,25563,None,0,0,0,0,0,1,1,1,1,Tor 0.3.2.10 on Linux,0,0,2017-08-03,LINODE-AP Linode- LLC- US,63949,31,None
-deploytoronmars,N/A,0,16,185.252.120.6,185.252.120.6,9001,None,0,0,0,0,0,0,1,1,1,Tor 0.3.3.7 on FreeBSD,0,0,2018-09-26,WORLDSTREAM- NL,49981,None,None
+deploytoronmars,N/A,0,16,185.252.120.6,185.252.120.6,9001,None,0,0,0,0,0,0,1,1,1,Tor 0.3.3.7 on FreeBSD,0,0,2018-09-26,WORLDSTREAM- NL,49981,1,None
 deprofundisclamavi,CZ,0,119,176.114.248.47,176-114-248-47.rychlydrat.cz,9001,9030,0,0,0,0,0,1,1,1,1,Tor 0.2.9.15 on Linux,0,0,2014-06-25,RYCHLYDRAT- CZ,202618,39,[2001:470:59a3::1]:9001
 digitaldoge,US,0,308,192.241.216.120,192.241.216.120,9001,None,0,0,0,0,0,1,1,1,0,Tor 0.2.4.29 on Linux,0,0,2014-07-03,DIGITALOCEAN-ASN - DigitalOcean- LLC- US,14061,31,None
 digitalfreedom,US,0,118,72.74.157.132,pool-72-74-157-132.bstnma.fios.verizon.net,9001,None,0,0,0,0,0,0,1,1,1,Tor 0.2.8.12 on Linux,0,0,2018-09-22,UUNET - MCI Communications Services- Inc. d/b/a Verizon Business- US,701,14,None
@@ -5841,7 +5841,7 @@ ecramrelay2,BR,0,380,143.106.60.70,quizumba.lasca.ic.unicamp.br,9001,None,0,1,0,
 elkx,EE,0,4203,185.46.22.51,185.46.22.51,9001,None,0,0,0,0,0,1,1,1,0,Tor 0.2.5.16 on Linux,0,0,2016-04-16,COULD- EE,61952,35,None
 ElToro,AT,0,67,85.127.160.172,85-127-160-172.dsl.dynamic.surfer.at,9001,None,0,0,0,0,0,1,1,1,0,Tor 0.2.9.16 on Linux,0,0,2017-12-26,LGI-UPC formerly known as UPC Broadband Holding B.V.- AT,6830,15,None
 EmiliaMaja,US,0,142,24.236.63.167,24-236-63-167-dynamic.midco.net,9001,None,0,0,0,0,0,1,1,1,1,Tor 0.3.2.10 on Linux,0,0,2017-04-03,MIDCO-NET - Midcontinent Communications- US,11232,56,None
-ENiGMA,DE,0,18,5.9.121.207,anti.netzwerkdurchsetzungsgesetz.ml,443,80,0,0,0,0,0,0,1,1,1,Tor 0.3.4.8 on Linux,0,0,2017-12-06,HETZNER-AS- DE,24940,None,None
+ENiGMA,DE,0,18,5.9.121.207,anti.netzwerkdurchsetzungsgesetz.ml,443,80,0,0,0,0,0,0,1,1,1,Tor 0.3.4.8 on Linux,0,0,2017-12-06,HETZNER-AS- DE,24940,1,None
 ephesysein,US,0,44,64.33.179.214,airstream-baldwin-aileron-001-7.direct.airstreamcomm.net,9100,9101,0,0,1,0,0,0,1,1,1,Tor 0.3.4.8 on Linux,0,0,2018-09-25,AIRSTREAMCOMM-NET - Airstream Communications- LLC- US,11796,550,None
 esko,FI,0,48,83.150.82.122,tor.maimed.org,9001,9030,0,0,0,0,0,1,1,1,1,Tor 0.3.3.9 on Linux,0,0,2007-10-27,NBLNETWORKS-AS Nebula Oy- FI,29422,29,None
 explorer,DE,0,619,46.38.241.16,explorer.michos.net,9001,None,0,0,0,0,0,1,1,1,1,Tor 0.3.3.9 on Linux,0,0,2015-07-06,NETCUP-AS netcup GmbH- DE,197540,1,None
@@ -5874,8 +5874,8 @@ GroundZeroBBS,US,0,29,104.236.242.182,dinolfo.us,9001,None,0,0,0,0,0,1,1,1,1,Tor
 gsrv,FR,0,257,86.73.143.182,182.143.73.86.rev.sfr.net,9001,None,0,0,0,0,0,1,1,1,0,Tor 0.2.7.6 on Linux,0,0,2018-09-16,LDCOMNET- FR,15557,4,None
 gsrv,ES,0,472,81.44.50.34,34.red-81-44-50.dynamicip.rima-tde.net,9001,None,0,0,0,0,0,1,1,1,0,Tor 0.2.7.6 on Linux,0,0,2018-09-07,TELEFONICA_DE_ESPANA- ES,3352,11,None
 Gymli,US,0,37,137.119.206.69,occm-69.dhcp.grp7-rng2.tnsprl.blomand.net,9001,9030,0,0,0,0,0,1,1,1,1,Tor 0.2.9.16 on Linux,0,0,2018-07-04,BEN-LOMAND-TEL - BEN LOMAND RURAL TELEPHONE COOPERATIVE- INC.- US,21766,36,None
-hacktheplanet,GB,0,9,80.229.7.227,mail.relaxed-out.com,9001,None,0,0,0,0,0,0,1,1,1,Tor 0.3.3.7 on Linux,0,0,2018-09-27,PLUSNET UK Internet Service Provider- GB,6871,None,None
-hacktheplanet,DE,0,9,46.4.33.126,hz2.maxlyth.com,9001,None,0,0,0,0,0,0,1,1,1,Tor 0.3.3.7 on Linux,0,0,2018-09-27,HETZNER-AS- DE,24940,None,None
+hacktheplanet,GB,0,9,80.229.7.227,mail.relaxed-out.com,9001,None,0,0,0,0,0,0,1,1,1,Tor 0.3.3.7 on Linux,0,0,2018-09-27,PLUSNET UK Internet Service Provider- GB,6871,1,None
+hacktheplanet,DE,0,9,46.4.33.126,hz2.maxlyth.com,9001,None,0,0,0,0,0,0,1,1,1,Tor 0.3.3.7 on Linux,0,0,2018-09-27,HETZNER-AS- DE,24940,1,None
 hansmuff,DE,0,3322,188.40.235.215,shubaku.raxys.net,9913,None,0,0,0,0,0,1,1,1,0,Tor 0.3.2.10 on Linux,0,0,2018-05-12,HETZNER-AS- DE,24940,20,None
 hestehoe,DK,0,378,212.10.153.81,d40a9951.rev.stofanet.dk,9001,None,0,0,0,0,0,1,1,1,1,Tor 0.3.4.8 on Linux,0,0,2017-09-19,STOFANET- DK,197288,39,None
 high5one,DE,0,574,185.26.156.45,alioth.uberspace.de,64016,None,0,0,0,0,0,1,1,1,0,Tor 0.2.6.9 on Linux,0,0,2015-09-25,UVENSYS- DE,58010,32,None
@@ -5897,7 +5897,7 @@ ididedittheconfig,BG,0,383,77.238.69.216,ip-77.238.69.216.fiber1.bg,51312,51313,
 ididnteditheconfig,GB,0,443,178.79.163.170,li301-170.members.linode.com,9001,None,0,0,0,0,0,1,1,1,1,Tor 0.3.3.9 on Linux,0,0,2018-09-09,LINODE-AP Linode- LLC- US,63949,36,None
 ididnteditheconfig,US,0,5591,54.86.232.140,ec2-54-86-232-140.compute-1.amazonaws.com,9001,9030,0,0,0,0,0,1,1,1,1,Tor 0.2.4.21 on Linux,0,0,2014-04-30,AMAZON-AES - Amazon.com- Inc.- US,14618,5,None
 ididnteditheconfig,US,0,538,69.133.58.128,cpe-69-133-58-128.cinci.res.rr.com,9001,9030,0,0,0,0,0,1,1,1,1,Tor 0.3.3.9 on Linux,0,0,2017-12-26,SCRR-10796 - Time Warner Cable Internet LLC- US,10796,31,None
-ididnteditheconfig,JP,0,3,118.86.185.36,118-86-185-36.kakt.j-cnet.jp,9001,None,0,0,0,0,0,0,1,1,1,Tor 0.3.2.10 on Linux,0,0,2018-09-27,JCN Jupiter Telecommunications Co.- Ltd.- JP,4721,None,None
+ididnteditheconfig,JP,0,3,118.86.185.36,118-86-185-36.kakt.j-cnet.jp,9001,None,0,0,0,0,0,0,1,1,1,Tor 0.3.2.10 on Linux,0,0,2018-09-27,JCN Jupiter Telecommunications Co.- Ltd.- JP,4721,1,None
 ididnteditheconfig,US,0,154,97.99.164.70,cpe-97-99-164-70.tx.res.rr.com,2035,None,0,0,0,0,0,1,1,1,1,Tor 0.2.9.16 on Linux,0,0,2017-06-13,SCRR-11427 - Time Warner Cable Internet LLC- US,11427,14,None
 ididnteditheconfig,AU,0,2132,110.175.89.172,110-175-89-172.static.tpgi.com.au,9538,None,0,0,0,0,0,1,1,1,0,Tor 0.2.9.14 on Linux,0,0,2017-01-13,TPG-INTERNET-AP TPG Telecom Limited- AU,7545,9,None
 ididnteditthis,FI,0,83,213.243.181.184,213-243-181-184.bb.dnainternet.fi,9001,9030,0,0,0,0,0,1,1,1,1,Tor 0.2.9.15 on Linux,0,0,2018-04-08,DNA- FI,16086,34,[2001:14ba:4f3:b900:eb02:c6c3:21cd:8d18]:9050
@@ -5913,7 +5913,7 @@ InTheNoise,FR,0,2700,52.47.111.91,ec2-52-47-111-91.eu-west-3.compute.amazonaws.c
 IOShadow,US,0,546,208.64.220.46,psrb-wifi-0046.tcsn.net,9001,None,0,0,0,0,0,1,1,1,0,Tor 0.2.5.14 on Linux,0,0,2017-07-09,TCSN-NET - The Computer Shop Netlink- US,13525,3,None
 iProtaganist,DE,0,4388,159.89.8.114,159.89.8.114,443,None,0,0,0,0,0,1,1,1,1,Tor 0.2.9.14 on Linux,0,0,2018-03-08,DIGITALOCEAN-ASN - DigitalOcean- LLC- US,14061,18,None
 Iqu7ge,FR,0,9,5.196.75.231,mail.thomaskerin.io,9001,None,0,0,1,0,0,0,1,1,0,Tor 0.2.9.16 on Linux,0,0,2017-12-04,OVH- FR,16276,104,None
-iriseden,FR,0,22,91.121.112.181,ns319368.ip-91-121-112.eu,9001,9030,0,1,0,0,0,0,1,1,1,Tor 0.3.4.8 on Linux,0,0,2018-09-26,OVH- FR,16276,None,None
+iriseden,FR,0,22,91.121.112.181,ns319368.ip-91-121-112.eu,9001,9030,0,1,0,0,0,0,1,1,1,Tor 0.3.4.8 on Linux,0,0,2018-09-26,OVH- FR,16276,1,None
 isnt,RU,0,850,212.109.3.253,ip212-109-3-253.sampo.ru,444,9035,0,0,0,0,0,1,1,1,1,Tor 0.2.9.15 on Linux,0,0,2018-06-09,SSERV-AS- RU,42387,25,[2001:470:de5f:bebe::1]:444
 ivlivs,FR,0,168,92.222.1.57,57.ip-92-222-1.eu,9001,None,0,0,0,0,0,1,1,1,1,Tor 0.3.3.9 on Linux,0,0,2017-10-06,OVH- FR,16276,32,None
 JaegersNet,DE,0,430,87.128.103.242,home.jaegers.net,9001,9030,0,0,0,0,0,1,1,1,1,Tor 0.2.4.29 on Linux,0,0,2014-07-18,DTAG Internet service provider operations- DE,3320,18,None
@@ -5942,13 +5942,13 @@ knoedelgurke,DE,0,9,84.191.95.241,p54BF5FF1.dip0.t-ipconnect.de,9035,None,0,0,0,
 kp60o453l,ES,0,6,37.134.237.247,247.237.134.37.dynamic.jazztel.es,9001,9030,0,0,1,0,0,0,1,1,1,Tor 0.3.4.8 on Linux,0,0,2018-09-23,UNI2-AS- ES,12479,114,None
 KrullTheWarriorKing,DE,0,506,46.38.237.111,v22016103326539175.goodsrv.de,9001,9030,0,0,0,0,0,1,1,1,1,Tor 0.2.5.12 on Linux,0,0,2016-11-08,NETCUP-AS netcup GmbH- DE,197540,35,None
 KS0120141125,FR,0,1454,37.187.97.31,ks01.websrv.biz,9001,9030,0,0,0,0,0,1,1,1,1,Tor 0.2.9.15 on Linux,0,0,2017-06-05,OVH- FR,16276,34,None
-KyleBroflovski,US,0,16,216.218.222.14,216.218.222.14,443,80,0,1,0,0,0,0,1,1,1,Tor 0.3.4.8 on Linux,0,0,2017-02-25,HURRICANE - Hurricane Electric LLC- US,6939,None,None
+KyleBroflovski,US,0,16,216.218.222.14,216.218.222.14,443,80,0,1,0,0,0,0,1,1,1,Tor 0.3.4.8 on Linux,0,0,2017-02-25,HURRICANE - Hurricane Electric LLC- US,6939,1,None
 labersack,DE,0,20,87.154.157.55,p579A9D37.dip0.t-ipconnect.de,9001,9030,0,0,0,0,0,1,1,1,1,Tor 0.3.4.8 on Linux,0,0,2013-07-29,DTAG Internet service provider operations- DE,3320,35,None
 lader,VN,0,312,125.212.220.60,125.212.220.60,443,80,0,0,0,0,0,1,1,1,1,Tor 0.3.3.10 on Linux,0,0,2016-03-18,VTDC-AS-VN Vietel - CHT Compamy Ltd- VN,38731,1,None
 LbDRelay,CA,0,14635,199.255.223.88,199.255.223.88,110,None,0,0,0,0,0,1,1,1,0,Tor 0.2.7.6 on Linux,0,0,2014-11-07,EASTLINK-HSI - EastLink- CA,11260,41,None
 lemnet,FR,0,1315,88.163.244.124,4va54-5-88-163-244-124.fbx.proxad.net,6881,None,0,0,0,0,0,1,1,1,1,Tor 0.2.9.16 on Linux,0,0,2017-04-19,PROXAD- FR,12322,32,None
 letsgetloud,DE,0,281,93.157.51.22,mail.akloud.de,9001,None,0,0,0,0,0,1,1,1,0,Tor 0.2.5.16 on Linux,0,0,2015-10-11,ASGHOSTNET- DE,12586,1,None
-Levate,US,0,16,198.98.58.135,tor-exit2.nodevar.com,443,80,0,1,0,0,0,0,1,1,1,Tor 0.3.4.8 on Linux,0,0,2018-09-26,PONYNET - FranTech Solutions- US,53667,None,None
+Levate,US,0,16,198.98.58.135,tor-exit2.nodevar.com,443,80,0,1,0,0,0,0,1,1,1,Tor 0.3.4.8 on Linux,0,0,2018-09-26,PONYNET - FranTech Solutions- US,53667,1,None
 LittleTorRelay,DE,0,39,130.255.78.232,130.255.78.232,9001,None,0,0,0,0,0,1,1,1,0,Tor 0.3.4.8 on Linux,0,0,2017-05-05,BKVG-AS- DE,29141,27,None
 LooseMoose,US,0,246,206.174.113.156,156-113-174-206.gci.net,9001,9020,0,0,0,0,0,1,1,1,1,Tor 0.3.3.7 on Windows XP,0,0,2015-07-26,GCI - GENERAL COMMUNICATION- INC.- US,8047,8,None
 losangetor,FR,0,4166,81.56.66.213,mic92-3-81-56-66-213.fbx.proxad.net,9001,None,0,0,0,0,0,1,1,1,1,Tor 0.3.2.10 on Linux,0,0,2017-10-11,PROXAD- FR,12322,21,None
@@ -5971,7 +5971,7 @@ Matrix,DE,0,171,178.26.131.34,ipb21a8322.dynamic.kabel-deutschland.de,9001,None,
 md0bnbr,DE,0,512,81.169.166.74,bandbreiter.net,9001,None,0,0,0,0,0,1,1,1,0,Tor 0.2.5.12 on Linux,0,0,2015-09-14,STRATO STRATO AG- DE,6724,29,None
 mdarder,FR,0,4033,51.254.125.86,86.ip-51-254-125.eu,9001,None,0,0,0,0,0,1,1,1,1,Tor 0.2.9.14 on Linux,0,0,2018-03-10,OVH- FR,16276,28,None
 meinegte,DE,0,432,87.181.92.193,p57B55CC1.dip0.t-ipconnect.de,9001,None,0,0,0,0,0,1,1,1,1,Tor 0.3.3.9 on Linux,0,0,2015-05-24,DTAG Internet service provider operations- DE,3320,15,None
-meow,HU,0,8,91.219.236.108,sa1402.azar-a.net,9001,None,0,0,0,0,0,0,1,1,1,Tor 0.3.4.8 on Linux,0,0,2018-09-26,SERVERASTRA-AS- HU,56322,None,[2001:4c48:2:84a3::1]:9001
+meow,HU,0,8,91.219.236.108,sa1402.azar-a.net,9001,None,0,0,0,0,0,0,1,1,1,Tor 0.3.4.8 on Linux,0,0,2018-09-26,SERVERASTRA-AS- HU,56322,1,[2001:4c48:2:84a3::1]:9001
 meow,US,0,44,66.30.44.203,c-66-30-44-203.hsd1.ma.comcast.net,9001,9030,0,0,1,0,0,0,1,1,1,Tor 0.3.2.10 on Linux,0,0,2018-09-25,COMCAST-7922 - Comcast Cable Communications- LLC- US,7922,20,None
 Mischmaschine,DE,0,11359,188.40.206.5,mischmaschine.wertarbyte.de,9001,None,0,0,0,0,0,1,1,1,0,Tor 0.2.4.29 on Linux,0,0,2009-07-26,HETZNER-AS- DE,24940,34,None
 mndo02,US,0,2811,206.189.111.200,206.189.111.200,9001,None,0,0,0,0,0,1,1,1,1,Tor 0.3.2.10 on FreeBSD,0,0,2018-06-02,DIGITALOCEAN-ASN - DigitalOcean- LLC- US,14061,1,None
@@ -6028,7 +6028,7 @@ PNRelay1,CA,0,54,69.90.151.229,69.90.151.229,9001,None,0,0,1,0,0,0,1,1,1,Tor 0.2
 Polanski,DE,0,14,79.197.149.46,p4FC5952E.dip0.t-ipconnect.de,9001,9030,0,0,1,0,0,0,1,1,1,Tor 0.3.4.8 on Linux,0,0,2018-09-25,DTAG Internet service provider operations- DE,3320,618,None
 Politor1,CA,0,96,158.69.217.34,34.ip-158-69-217.net,9001,None,0,0,0,0,0,1,1,1,1,Tor 0.3.4.8 on Linux,0,0,2015-12-31,OVH- FR,16276,23,None
 pollypurebred,US,0,490,72.92.25.245,pool-72-92-25-245.phlapa.fios.verizon.net,9001,None,0,0,0,0,0,1,1,1,1,Tor 0.3.3.9 on Linux,0,0,2018-08-05,UUNET - MCI Communications Services- Inc. d/b/a Verizon Business- US,701,34,None
-portebonheur,CA,0,19,207.112.18.54,host-207-112-18-54.static.dsl.primus.ca,9001,None,0,0,0,0,0,0,1,1,1,Tor 0.3.3.9 on Linux,0,0,2016-08-31,PRIMUS-AS6407 - Primus Telecommunications Canada Inc.- CA,6407,None,None
+portebonheur,CA,0,19,207.112.18.54,host-207-112-18-54.static.dsl.primus.ca,9001,None,0,0,0,0,0,0,1,1,1,Tor 0.3.3.9 on Linux,0,0,2016-08-31,PRIMUS-AS6407 - Primus Telecommunications Canada Inc.- CA,6407,1,None
 PsiHub,US,0,79,24.30.59.18,c-24-30-59-18.hsd1.ga.comcast.net,110,143,0,0,0,0,0,1,1,1,1,Tor 0.3.3.9 on Linux,0,0,2016-06-26,COMCAST-7922 - Comcast Cable Communications- LLC- US,7922,36,None
 quark,DE,0,2597,178.63.68.78,ferenginar.grandnagus.de,9001,None,0,0,0,0,0,1,1,1,1,Tor 0.3.1.10 on Linux,0,0,2017-09-10,HETZNER-AS- DE,24940,53,None
 quester,SE,0,3,91.236.116.87,91.236.116.87,443,80,0,0,0,0,0,1,1,1,1,Tor 0.3.3.10 on Linux,0,0,2016-03-28,ICME- SE,42237,1,None
@@ -6037,9 +6037,9 @@ rabukel,DE,0,10,78.48.184.128,x4e30b880.dyn.telefonica.de,9001,None,0,0,0,0,0,0,
 RanaInside,GB,0,61,81.103.36.9,cpc95626-seac27-2-0-cust8.7-2.cable.virginm.net,8443,None,0,0,0,0,0,1,1,1,0,Tor 0.2.5.16 on Linux,0,0,2016-10-20,NTL- GB,5089,1,None
 Rarity,RU,0,744,79.172.18.18,79.172.18.18.ural.ru,9001,None,0,0,0,0,0,1,1,1,1,Tor 0.2.9.10 on Linux,0,0,2012-01-22,URAL Ural Regional Net- RU,5563,25,None
 RaspberryPi2,US,0,231,24.60.168.172,c-24-60-168-172.hsd1.ct.comcast.net,9001,None,0,0,0,0,0,1,1,1,1,Tor 0.3.3.7 on FreeBSD,0,0,2018-08-28,COMCAST-7922 - Comcast Cable Communications- LLC- US,7922,46,[2601:18a:c680:9888:ba27:ebff:fe60:7486]:9001
-raspgranita,US,0,33,98.142.132.32,98.142.132.32.16clouds.com,9001,None,0,1,0,0,0,0,1,1,0,Tor 0.3.3.9 on Linux,0,0,2018-09-26,IT7NET - IT7 Networks Inc- CA,25820,None,None
+raspgranita,US,0,33,98.142.132.32,98.142.132.32.16clouds.com,9001,None,0,1,0,0,0,0,1,1,0,Tor 0.3.3.9 on Linux,0,0,2018-09-26,IT7NET - IT7 Networks Inc- CA,25820,1,None
 RaspiTorL,DE,0,10,84.168.219.4,p54A8DB04.dip0.t-ipconnect.de,9001,None,0,0,0,0,0,0,1,1,0,Tor 0.2.4.29 on Linux,0,0,2015-04-26,DTAG Internet service provider operations- DE,3320,32,None
-RattusNorvegicus,GB,0,18,212.159.79.228,blackandwhite.plus.com,9001,9030,0,0,0,0,0,0,1,1,1,Tor 0.3.4.8 on Linux,0,0,2018-09-26,PLUSNET UK Internet Service Provider- GB,6871,None,None
+RattusNorvegicus,GB,0,18,212.159.79.228,blackandwhite.plus.com,9001,9030,0,0,0,0,0,0,1,1,1,Tor 0.3.4.8 on Linux,0,0,2018-09-26,PLUSNET UK Internet Service Provider- GB,6871,1,None
 ReDHumus,US,0,2338,104.131.65.225,redhumus.org,444,None,0,0,0,0,0,1,1,1,0,Tor 0.2.4.29 on Linux,0,0,2015-01-24,DIGITALOCEAN-ASN - DigitalOcean- LLC- US,14061,6,None
 redsphinx,DE,0,308,188.193.238.4,ipbcc1ee04.dynamic.kabel-deutschland.de,9001,None,0,0,0,0,0,1,1,1,1,Tor 0.3.3.9 on Linux,0,0,2017-10-12,KABELDEUTSCHLAND-AS- DE,31334,24,None
 riZz144,CA,0,152,184.64.197.30,S01060024a5c9c37a.cg.shawcable.net,443,80,0,0,0,0,0,0,1,1,1,Tor 0.2.9.15 on Linux,0,0,2018-09-16,SHAW - Shaw Communications Inc.- CA,6327,2,None
@@ -6081,9 +6081,9 @@ snIP3r2,DE,0,218,85.214.54.254,h969749.serverkompetenz.net,9001,None,0,0,0,0,0,1
 SoftPower,US,0,593,206.63.229.144,206-63-229-144-dsl.cet.com,4031,None,0,0,0,0,0,1,1,1,1,Tor 0.2.9.16 on Linux,0,0,2016-05-16,CEC - Cutting Edge Communications- Inc.- US,10594,14,[2002:ce3f:e590:1:1::15]:4031
 Sol01,US,0,181,209.181.61.219,mail.ggroup.com,9001,81,0,0,0,0,0,1,1,1,1,Tor 0.3.4.8 on Linux,0,0,2016-01-12,CENTURYLINK-US-LEGACY-QWEST - Qwest Communications Company- LLC- US,209,20,None
 spiesserhalle,DE,0,9,92.117.126.184,92.117.126.184,9001,None,0,0,0,0,0,0,1,1,1,Tor 0.2.9.15 on Linux,0,0,2018-06-18,VERSATEL- DE,8881,35,None
-spinl0ck,CZ,0,16,46.36.40.69,privatepeer.tech,443,80,0,0,0,0,0,0,1,1,1,Tor 0.2.9.16 on Linux,0,0,2018-09-27,GTT-AS- CZ,51731,None,[2a02:25b0:aaaa:aaaa:34e1:7cfb:6fe6:0]:9050
+spinl0ck,CZ,0,16,46.36.40.69,privatepeer.tech,443,80,0,0,0,0,0,0,1,1,1,Tor 0.2.9.16 on Linux,0,0,2018-09-27,GTT-AS- CZ,51731,1,[2a02:25b0:aaaa:aaaa:34e1:7cfb:6fe6:0]:9050
 ssequity,US,0,220,96.95.217.4,vpn.taur.net,9001,None,0,0,0,0,0,1,1,1,1,Tor 0.3.3.8 on Linux,0,0,2018-07-12,COMCAST-7922 - Comcast Cable Communications- LLC- US,7922,43,None
-StanMarsh,US,0,16,216.218.222.12,216.218.222.12,443,80,0,1,0,0,0,0,1,1,1,Tor 0.3.4.8 on Linux,0,0,2017-02-25,HURRICANE - Hurricane Electric LLC- US,6939,None,None
+StanMarsh,US,0,16,216.218.222.12,216.218.222.12,443,80,0,1,0,0,0,0,1,1,1,Tor 0.3.4.8 on Linux,0,0,2017-02-25,HURRICANE - Hurricane Electric LLC- US,6939,1,None
 stargate,DE,0,9,87.122.110.74,i577A6E4A.versanet.de,9001,None,0,0,0,0,0,0,1,1,0,Tor 0.2.4.29 on Linux,0,0,2014-12-06,VERSATEL- DE,8881,23,None
 steditedheconfig,US,0,404,18.221.54.60,ec2-18-221-54-60.us-east-2.compute.amazonaws.com,443,None,0,0,0,0,0,1,1,1,0,Tor 0.3.1.9 on Linux,0,0,2018-01-09,AMAZON-02 - Amazon.com- Inc.- US,16509,37,None
 Steppenwolfe,IT,0,323,188.153.32.115,net-188-153-32-115.cust.vodafonedsl.it,9001,None,0,0,0,0,0,1,1,1,1,Tor 0.2.9.14 on Linux,0,0,2016-01-17,VODAFONE-IT-ASN- IT,30722,17,None
@@ -6117,18 +6117,18 @@ TorByChouby,FR,0,38,85.95.213.222,85.95.213.222,9001,None,0,0,0,0,0,0,1,1,1,Tor 
 torcz,CZ,0,840,213.211.43.139,sirion.kasparkovi.net,9001,None,0,0,0,0,0,1,1,1,1,Tor 0.2.9.16 on Linux,0,0,2017-12-21,ITSELF Network and internet service provider.- CZ,12570,31,None
 torDeLex,NL,0,813,145.132.102.26,static-145.132.102.26.ip.telfort.nl,9001,None,0,0,0,0,0,1,1,1,0,Tor 0.3.3.7 on FreeBSD,0,0,2018-08-08,KPN This macro reflects our filtering-policy on- NL,1136,21,None
 tordotcissincdotca,CA,0,1325,45.73.2.211,modemcable211.2-73-45.static.videotron.ca,443,80,0,0,0,0,0,1,1,1,1,Tor 0.2.9.16 on Linux,0,0,2018-01-13,VIDEOTRON - Videotron Telecom Ltee- CA,5769,49,None
-TORdragon,DE,0,20,188.138.61.165,euve84047.serverprofi24.com,443,80,0,0,0,0,0,0,1,1,1,Tor 0.3.4.8 on Linux,0,0,2018-09-26,GD-EMEA-DC-SXB1- DE,8972,None,None
+TORdragon,DE,0,20,188.138.61.165,euve84047.serverprofi24.com,443,80,0,0,0,0,0,0,1,1,1,Tor 0.3.4.8 on Linux,0,0,2018-09-26,GD-EMEA-DC-SXB1- DE,8972,1,None
 torex,AU,0,147,124.171.53.117,124-171-53-117.dyn.iinet.net.au,9010,None,0,0,0,0,0,1,1,1,1,Tor 0.3.4.8 on Linux,0,0,2011-12-19,INTERNODE-AS Internode Pty Ltd- AU,4739,4,None
 torheit01,DE,0,684,188.194.74.23,ipbcc24a17.dynamic.kabel-deutschland.de,9001,9030,0,0,0,0,0,1,1,1,1,Tor 0.3.2.9 on Linux,0,0,2015-12-27,KABELDEUTSCHLAND-AS- DE,31334,3,None
 Tori4,RU,0,836,93.81.253.234,0890396351.static.corbina.ru,9001,None,0,0,0,0,0,1,1,1,1,Tor 0.3.0.10 on Linux,0,0,2018-04-18,CORBINA-AS OJSC _Vimpelcom_- RU,8402,45,None
 Toriffic,AU,0,13,121.208.44.101,cpe-121-208-44-101.cfui-cr-004.woo.qld.bigpond.net.au,443,9030,0,0,0,0,0,1,1,1,1,Tor 0.3.2.10 on Windows 8,0,0,2014-08-14,ASN-TELSTRA Telstra Pty Ltd- AU,1221,8,None
-TorInBris,AU,0,8,147.10.150.152,static.belong.com.au,9001,9030,0,0,0,0,0,0,1,1,1,Tor 0.3.2.10 on OpenBSD,0,0,2018-09-27,TELCOINABOX-AU Level 10- 9 Hunter Street- AU,45510,None,None
+TorInBris,AU,0,8,147.10.150.152,static.belong.com.au,9001,9030,0,0,0,0,0,0,1,1,1,Tor 0.3.2.10 on OpenBSD,0,0,2018-09-27,TELCOINABOX-AU Level 10- 9 Hunter Street- AU,45510,1,None
 torjittertrapnet,AU,0,100,52.63.134.148,ec2-52-63-134-148.ap-southeast-2.compute.amazonaws.com,443,None,0,0,0,0,0,1,1,1,1,Tor 0.3.3.6 on Linux,0,0,2016-08-10,AMAZON-02 - Amazon.com- Inc.- US,16509,21,None
 torototela,IT,0,40,87.20.118.134,host134-118-dynamic.20-87-r.retail.telecomitalia.it,9001,None,0,0,0,0,0,1,1,1,1,Tor 0.3.2.10 on Linux,0,0,2018-02-20,ASN-IBSNAZ- IT,3269,19,None
 Torpi,AU,0,506,110.146.4.151,cpe-110-146-4-151.wb03.wa.asp.telstra.net,9001,9030,0,0,0,0,0,1,1,1,1,Tor 0.2.4.29 on Linux,0,0,2017-05-19,ASN-TELSTRA Telstra Pty Ltd- AU,1221,11,None
 torpi54,FR,0,135,82.247.250.162,4aa54-5-82-247-250-162.fbx.proxad.net,81,None,0,0,0,0,0,1,1,1,0,Tor 0.2.5.16 on Linux,0,0,2017-05-19,PROXAD- FR,12322,3,None
 torrelay,US,0,3053,159.89.43.248,159.89.43.248,9001,None,0,0,0,0,0,1,1,1,0,Tor 0.3.2.9 on Linux,0,0,2018-03-04,DIGITALOCEAN-ASN - DigitalOcean- LLC- US,14061,43,None
-TorRelayHemdal,SE,0,14,95.80.10.222,cust-95-80-10-222.csbnet.se,9001,None,0,0,0,0,0,0,1,1,1,Tor 0.3.3.9 on Linux,0,0,2018-09-27,CSB- SE,48514,None,None
+TorRelayHemdal,SE,0,14,95.80.10.222,cust-95-80-10-222.csbnet.se,9001,None,0,0,0,0,0,0,1,1,1,Tor 0.3.3.9 on Linux,0,0,2018-09-27,CSB- SE,48514,1,None
 torRelayPiJordi,ES,0,2,37.15.31.128,128.31.15.37.dynamic.jazztel.es,9001,9030,0,0,1,0,0,0,1,1,1,Tor 0.2.9.14 on Linux,0,0,2018-01-21,UNI2-AS- ES,12479,8070,None
 torricelli,FR,0,42,81.254.125.193,LFbn-LIL-1-543-193.w81-254.abo.wanadoo.fr,9001,None,0,0,0,0,0,1,1,1,1,Tor 0.2.9.15 on Linux,0,0,2007-11-14,AS3215- FR,3215,11,None
 torror,DE,0,1641,88.217.143.53,host-88-217-143-53.customer.m-online.net,9001,None,0,0,0,0,0,1,1,1,1,Tor 0.2.9.16 on Linux,0,0,2014-07-03,MNET-AS Germany- DE,8767,13,None
@@ -6144,7 +6144,7 @@ trixi,DE,0,10,91.97.63.43,host-091-097-063-043.ewe-ip-backbone.de,9001,9030,0,0,
 tubealloys,DE,0,1509,185.15.92.76,osmium.darkpackets.net,9001,9030,0,0,0,0,0,1,1,1,1,Tor 0.3.2.11 on OpenBSD,0,0,2016-06-09,LUN-AS Frankfurt am Main- Germany- DE,25486,18,None
 turingrelay,FR,0,49,137.74.40.77,77.ip-137-74-40.eu,444,None,0,0,0,0,0,1,1,1,1,Tor 0.3.2.10 on Linux,0,0,2016-09-23,OVH- FR,16276,18,None
 Uberrelay,DE,0,6348,185.26.156.50,alnilam.uberspace.de,64200,None,0,0,0,0,0,1,1,1,0,Tor 0.2.6.10 on Linux,0,0,2015-08-06,UVENSYS- DE,58010,32,None
-UbuntuCore239,GR,0,5,79.129.107.3,elpe762.static.otenet.gr,37051,None,0,0,0,0,0,0,1,1,1,Tor 0.3.2.10 on Linux,0,0,2017-10-16,OTENET-GR Athens - Greece- GR,6799,None,None
+UbuntuCore239,GR,0,5,79.129.107.3,elpe762.static.otenet.gr,37051,None,0,0,0,0,0,0,1,1,1,Tor 0.3.2.10 on Linux,0,0,2017-10-16,OTENET-GR Athens - Greece- GR,6799,1,None
 UbuntuCore242,SA,0,6,94.98.117.178,94.98.117.178,41825,None,0,0,0,0,0,0,1,1,1,Tor 0.3.2.12 on Linux,0,0,2018-09-15,SAUDINETSTC-AS- SA,25019,9,None
 UbuntuCore242,GB,0,5,90.221.96.7,5add6007.bb.sky.com,42381,None,0,0,0,0,0,0,1,1,1,Tor 0.3.2.12 on Linux,0,0,2018-03-13,BSKYB-BROADBAND-AS- GB,5607,13,None
 UbuntuCore242,AU,0,4,49.193.209.115,49.193.209.115,44751,None,0,0,0,0,0,0,1,1,1,Tor 0.3.2.12 on Linux,0,0,2018-08-26,MPX-AS Microplex PTY LTD- AU,4804,8,None
@@ -6168,7 +6168,7 @@ UbuntuCore242,PH,0,26,120.29.123.176,120.29.123.176,45949,None,0,0,0,0,0,0,1,1,1
 UbuntuCore242,VE,0,4,190.39.37.20,190-39-37-20.dyn.dsl.cantv.net,36009,None,0,0,0,0,0,0,1,1,1,Tor 0.3.2.12 on Linux,0,0,2018-06-01,CANTV Servicios- Venezuela- VE,8048,9,None
 UbuntuCore242,FR,0,3,82.240.203.20,mal35-3-82-240-203-20.fbx.proxad.net,35321,None,0,0,0,0,0,0,1,1,1,Tor 0.3.2.12 on Linux,0,0,2018-01-22,PROXAD- FR,12322,44,None
 UbuntuCore242,MA,0,3,160.176.31.20,160.176.31.20,44389,None,0,0,0,0,0,0,1,1,1,Tor 0.3.2.12 on Linux,0,0,2018-09-25,MT-MPLS- MA,36903,20,None
-UbuntuCore242,CA,0,14,99.230.144.253,CPEbc1401356153-CMbc1401356150.cpe.net.cable.rogers.com,45795,None,0,0,0,0,0,0,1,1,1,Tor 0.3.2.12 on Linux,0,0,2018-04-22,ROGERS-COMMUNICATIONS - Rogers Communications Canada Inc.- CA,812,None,None
+UbuntuCore242,CA,0,14,99.230.144.253,CPEbc1401356153-CMbc1401356150.cpe.net.cable.rogers.com,45795,None,0,0,0,0,0,0,1,1,1,Tor 0.3.2.12 on Linux,0,0,2018-04-22,ROGERS-COMMUNICATIONS - Rogers Communications Canada Inc.- CA,812,1,None
 UbuntuCore242,FR,0,5,91.88.158.188,188.158.88.91.rev.sfr.net,35893,None,0,0,0,0,0,0,1,1,1,Tor 0.3.2.12 on Linux,0,0,2018-04-06,MANCHE-TELECOM-AS- FR,41334,7,None
 UbuntuCore242,DE,0,5,217.86.243.177,pd956f3b1.dip0.t-ipconnect.de,42797,None,0,0,0,0,0,0,1,1,1,Tor 0.3.2.12 on Linux,0,0,2018-08-10,DTAG Internet service provider operations- DE,3320,25,None
 UbuntuCore242,FR,0,2,91.163.200.240,91-163-200-240.subs.proxad.net,36041,None,0,0,0,0,0,0,1,1,1,Tor 0.3.2.12 on Linux,0,0,2018-09-02,PROXAD- FR,12322,20,None
@@ -6191,9 +6191,9 @@ UbuntuCore242,FR,0,2,90.42.46.210,AGrenoble-651-1-462-210.w90-42.abo.wanadoo.fr,
 UbuntuCore242,IN,0,7,203.122.44.234,203.122.44.234.reverse.spectranet.in,36647,None,0,0,0,0,0,0,1,1,1,Tor 0.3.2.12 on Linux,0,0,2017-12-28,SHYAMSPECTRA-AS SHYAM SPECTRA PVT LTD- IN,10029,5,None
 UbuntuCore242,HR,0,24,89.164.245.18,245-18.dsl.iskon.hr,39905,None,0,0,0,0,0,0,1,1,1,Tor 0.3.2.12 on Linux,0,0,2018-08-23,ASN-ISKON- HR,13046,2,None
 UbuntuCore242,FR,0,5,78.228.136.136,pgx42-1-78-228-136-136.fbx.proxad.net,43093,None,0,0,0,0,0,0,1,1,1,Tor 0.3.2.12 on Linux,0,0,2018-02-18,PROXAD- FR,12322,6,None
-UbuntuCore242,RU,0,14,188.234.226.15,net226.234.188-15.ertelecom.ru,44105,None,0,0,0,0,0,0,1,1,1,Tor 0.3.2.12 on Linux,0,0,2018-09-27,EKAT-AS- RU,51604,None,None
+UbuntuCore242,RU,0,14,188.234.226.15,net226.234.188-15.ertelecom.ru,44105,None,0,0,0,0,0,0,1,1,1,Tor 0.3.2.12 on Linux,0,0,2018-09-27,EKAT-AS- RU,51604,1,None
 UbuntuCore242,IR,0,3,109.225.164.59,109.225.164.59,43659,None,0,0,0,0,0,0,1,1,1,Tor 0.3.2.12 on Linux,0,0,2018-07-05,IR-FCP- IR,44400,20,None
-UbuntuCore242,GB,0,4,176.27.87.235,b01b57eb.bb.sky.com,37109,None,0,0,0,0,0,0,1,1,1,Tor 0.3.2.12 on Linux,0,0,2018-09-26,BSKYB-BROADBAND-AS- GB,5607,None,None
+UbuntuCore242,GB,0,4,176.27.87.235,b01b57eb.bb.sky.com,37109,None,0,0,0,0,0,0,1,1,1,Tor 0.3.2.12 on Linux,0,0,2018-09-26,BSKYB-BROADBAND-AS- GB,5607,1,None
 UbuntuCore242,FR,0,6,109.190.93.217,217-93-190-109.dsl.ovh.fr,45189,None,0,0,0,0,0,0,1,1,1,Tor 0.3.2.12 on Linux,0,0,2018-08-29,OVH-TELECOM- FR,35540,28,None
 UbuntuCore242,FR,0,27,78.220.232.86,sll49-1-78-220-232-86.fbx.proxad.net,39061,None,0,0,0,0,0,0,1,1,1,Tor 0.3.2.12 on Linux,0,0,2018-05-26,PROXAD- FR,12322,26,None
 UbuntuCore242,BD,0,3,114.31.18.25,114-31-18-25-smile.com.bd,42703,None,0,0,1,0,0,0,1,1,1,Tor 0.3.2.12 on Linux,0,0,2018-07-01,BDCOM-BD Rangs Nilu Square- 5th Floor- House 75- Road 5/A- Dhanmondi R/A- Dhaka 1209- BD,7565,55,None
@@ -6251,7 +6251,7 @@ UbuntuCore242,GB,0,2,77.101.162.111,cpc146724-hali7-2-0-cust622.17-1.cable.virgi
 UbuntuCore242,US,0,13,70.15.215.255,70.15.215.255.res-cmts.haw.ptd.net,36577,None,0,0,1,0,0,0,1,1,1,Tor 0.3.2.12 on Linux,0,0,2017-11-27,PTD-AS - PenTeleData Inc.- US,3737,20,None
 UbuntuCore242,FR,0,22,90.41.2.179,AAnnecy-653-1-79-179.w90-41.abo.wanadoo.fr,40536,None,0,0,0,0,0,0,1,1,1,Tor 0.3.2.12 on Linux,0,0,2018-03-07,AS3215- FR,3215,22,None
 UbuntuCore242,BR,0,2,179.95.39.55,179.95.39.55.dynamic.adsl.gvt.net.br,43717,None,0,0,0,0,0,0,1,1,1,Tor 0.3.2.12 on Linux,0,0,2018-09-05,None,None,15,None
-UbuntuCore242,RU,0,2,31.204.166.7,ab-31-204-166-7.mxc.ru,38071,None,0,0,0,0,0,0,1,1,1,Tor 0.3.2.12 on Linux,0,0,2018-09-27,MAXIMA- RU,39578,None,None
+UbuntuCore242,RU,0,2,31.204.166.7,ab-31-204-166-7.mxc.ru,38071,None,0,0,0,0,0,0,1,1,1,Tor 0.3.2.12 on Linux,0,0,2018-09-27,MAXIMA- RU,39578,1,None
 UbuntuCore243,ZA,0,4,105.184.75.246,75-184-105-246.north.dsl.telkomsa.net,42923,None,0,0,0,0,0,0,1,1,1,Tor 0.3.2.12 on Linux,0,0,2018-03-20,Telkom-Internet- ZA,37457,2,None
 UbuntuCore243,FR,0,3,77.200.35.77,77.35.200.77.rev.sfr.net,33419,None,0,0,0,0,0,0,1,1,1,Tor 0.3.2.12 on Linux,0,0,2018-01-13,LDCOMNET- FR,15557,20,None
 UbuntuCore243,IT,0,166,2.34.182.152,net-2-34-182-152.cust.vodafonedsl.it,34473,None,0,0,0,0,0,0,1,1,1,Tor 0.3.2.12 on Linux,0,0,2018-01-05,VODAFONE-IT-ASN- IT,30722,9,None
@@ -6266,10 +6266,10 @@ UbuntuCore243,FR,0,4,92.143.4.32,AMontpellier-655-1-27-32.w92-143.abo.wanadoo.fr
 UbuntuCore243,IN,0,22,203.223.191.217,203.223.191.217,43725,None,0,0,0,0,0,0,1,1,1,Tor 0.3.2.12 on Linux,0,0,2018-06-29,READYLINK-AS-AP Readylink Internet Services Limited- IN,45536,22,None
 UbuntuCore243,FR,0,41,77.131.125.88,88.125.131.77.rev.sfr.net,41254,None,0,0,0,0,0,0,1,1,1,Tor 0.3.2.12 on Linux,0,0,2018-05-13,LDCOMNET- FR,15557,24,None
 ULegionnaire,US,0,232,192.163.224.51,192-163-224-51.unifiedlayer.com,9001,None,0,0,0,0,0,1,1,1,0,Tor 0.3.4.8 on Linux,0,0,2014-06-06,UNIFIEDLAYER-AS-1 - Unified Layer- US,46606,35,None
-unknown,US,0,3,159.69.154.249,static.249.154.69.159.clients.your-server.de,443,80,0,0,0,0,0,0,1,1,1,Tor 0.2.9.11 on Linux,0,0,2018-09-27,HETZNER-AS- DE,24940,None,None
+unknown,US,0,3,159.69.154.249,static.249.154.69.159.clients.your-server.de,443,80,0,0,0,0,0,0,1,1,1,Tor 0.2.9.11 on Linux,0,0,2018-09-27,HETZNER-AS- DE,24940,1,None
 Unnamed,BR,0,6563,54.94.85.201,ec2-54-94-85-201.sa-east-1.compute.amazonaws.com,9001,None,0,0,0,0,0,1,1,1,0,Tor 0.2.7.6 on Linux,0,0,2015-07-09,AMAZON-02 - Amazon.com- Inc.- US,16509,15,None
-Unnamed,FR,0,9,51.254.234.114,ip114.ip-51-254-234.eu,34635,None,0,0,0,0,0,0,1,1,1,Tor 0.3.4.8 on Linux,0,0,2018-09-27,OVH- FR,16276,None,[2001:41d0:8:6a52:2fc:67ff:feac:44a0]:1100
-Unnamed,DE,0,14,31.17.236.49,ip1f11ec31.dynamic.kabel-deutschland.de,9001,9030,0,0,0,0,0,0,1,1,1,Tor 0.3.2.10 on Linux,0,0,2018-09-27,KABELDEUTSCHLAND-AS- DE,31334,None,None
+Unnamed,FR,0,9,51.254.234.114,ip114.ip-51-254-234.eu,34635,None,0,0,0,0,0,0,1,1,1,Tor 0.3.4.8 on Linux,0,0,2018-09-27,OVH- FR,16276,1,[2001:41d0:8:6a52:2fc:67ff:feac:44a0]:1100
+Unnamed,DE,0,14,31.17.236.49,ip1f11ec31.dynamic.kabel-deutschland.de,9001,9030,0,0,0,0,0,0,1,1,1,Tor 0.3.2.10 on Linux,0,0,2018-09-27,KABELDEUTSCHLAND-AS- DE,31334,1,None
 Unnamed,DE,0,22,109.90.222.252,ip-109-90-222-252.hsi11.unitymediagroup.de,9001,None,0,0,0,0,0,1,1,1,0,Tor 0.3.4.7-rc on Linux,0,0,2017-11-21,LGI-UPC formerly known as UPC Broadband Holding B.V.- AT,6830,20,None
 Unnamed,UA,0,314,62.149.2.188,tea.colocall.net,9001,None,0,0,0,0,0,1,1,1,1,Tor 0.3.3.7 on FreeBSD,0,0,2012-08-17,COLOCALL Internet Data Center _ColoCALL_- UA,15497,33,None
 Unnamed,IL,0,62,79.177.242.98,bzq-79-177-242-98.red.bezeqint.net,9001,9030,0,0,0,0,0,1,1,1,1,Tor 0.3.5.2-alpha on Linux,0,0,2015-04-01,BEZEQ-INTERNATIONAL-AS Bezeqint Internet Backbone- IL,8551,12,None
@@ -6337,7 +6337,7 @@ VADRELAY,GB,0,1439,52.56.47.154,ec2-52-56-47-154.eu-west-2.compute.amazonaws.com
 veetee,DE,0,10,77.180.203.4,x4db4cb04.dyn.telefonica.de,9001,9030,0,0,0,0,0,0,1,1,1,Tor 0.2.4.29 on Linux,0,0,2014-01-03,TDDE-ASN1- DE,6805,4,None
 vegms,DE,0,135,92.50.105.146,b2b-92-50-105-146.unitymedia.biz,9001,None,0,0,0,0,0,0,1,1,1,Tor 0.3.3.9 on Linux,0,0,2016-11-15,LGI-UPC formerly known as UPC Broadband Holding B.V.- AT,6830,21,None
 viehtor,DE,0,2,79.221.132.62,p4FDD843E.dip0.t-ipconnect.de,9001,None,0,0,0,0,0,0,1,1,1,Tor 0.2.9.15 on Linux,0,0,2018-08-31,None,None,8,None
-vilo,DE,0,14,46.20.35.114,host.de.appvz.com,443,80,0,1,0,0,0,0,1,1,1,Tor 0.3.3.9 on Linux,0,0,2018-09-27,MYLOC-AS- DE,24961,None,None
+vilo,DE,0,14,46.20.35.114,host.de.appvz.com,443,80,0,1,0,0,0,0,1,1,1,Tor 0.3.3.9 on Linux,0,0,2018-09-27,MYLOC-AS- DE,24961,1,None
 vilyaExt,HU,0,731,193.227.196.10,sexard-10.tolna.net,9001,None,0,0,0,0,0,1,1,1,0,Tor 0.2.9.11 on Linux,0,0,2016-05-29,TARR1- HU,8462,33,None
 VM023,GB,0,142,87.102.15.216,87-102-15-216.static.kc.net.uk,9001,9030,0,0,0,0,0,1,1,1,1,Tor 0.3.4.8 on Linux,0,0,2016-08-08,KINGSTON-UK-AS- GB,12390,18,None
 vpnint1,NL,0,6479,176.31.23.96,176.31.23.96,6666,None,0,0,0,0,0,1,1,1,0,Tor 0.2.5.12 on Linux,0,0,2016-01-30,OVH- FR,16276,44,None
@@ -6349,7 +6349,7 @@ WaywardHound,US,0,81,208.113.133.247,ip-208-113-133-247.nodes.dream.io,9001,9030
 wecontributetotor,US,0,2356,45.79.74.229,li1173-229.members.linode.com,9001,None,0,0,0,0,0,1,1,1,0,Tor 0.2.9.14 on Linux,0,0,2018-06-21,LINODE-AP Linode- LLC- US,63949,25,None
 wewillrockthatworld,DE,0,5405,78.46.64.245,static.245.64.46.78.clients.your-server.de,9001,None,0,0,0,0,0,1,1,1,0,Tor 0.2.4.24 on FreeBSD,0,0,2014-11-17,HETZNER-AS- DE,24940,18,None
 WhatTheF0ckIsThis,RU,0,1454,31.135.243.138,138.243.135.31.kss45.ru,443,9030,0,0,0,0,0,1,1,1,1,Tor 0.2.8.9 on Windows XP,0,0,2016-11-24,KSS-TELECOM-AS- KG,57041,7,None
-whvger,DE,0,3,83.135.83.49,i53875331.versanet.de,9001,9030,0,0,0,0,0,0,1,1,1,Tor 0.2.9.9 on Windows 7,0,0,2010-06-22,VERSATEL- DE,8881,None,None
+whvger,DE,0,3,83.135.83.49,i53875331.versanet.de,9001,9030,0,0,0,0,0,0,1,1,1,Tor 0.2.9.9 on Windows 7,0,0,2010-06-22,VERSATEL- DE,8881,1,None
 windmill,FR,0,182,82.225.100.53,sto93-2-82-225-100-53.fbx.proxad.net,9001,None,0,0,0,0,0,1,1,1,1,Tor 0.2.9.15 on Linux,0,0,2017-11-03,PROXAD- FR,12322,17,None
 wingedgods,US,0,6659,173.160.180.189,hermes.forcedperspective.org,9001,None,0,0,0,0,0,1,1,1,1,Tor 0.2.9.13 on Linux,0,0,2011-02-04,COMCAST-7922 - Comcast Cable Communications- LLC- US,7922,14,None
 wirsinddasvolk,DE,0,875,84.200.77.243,84.200.77.243,9001,None,0,0,0,0,0,1,1,1,0,Tor 0.3.3.9 on Linux,0,0,2013-12-18,ACCELERATED-IT- DE,31400,35,None
