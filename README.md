@@ -8,3 +8,5 @@ TOR relay information extracted from https://torstatus.blutmagie.de/
 TOR consensus extracted from https://metrics.torproject.org/collector/recent/relay-descriptors/consensuses/
 
 Command like : python main.py Tor_query_EXPORT.csv
+
+Refer to the pdf file for explanation.
